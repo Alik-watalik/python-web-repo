@@ -35,9 +35,9 @@ welcome = """
   <title>Welcome</title>
   <style>
   body {
-    color: #ffffff;
+    color: Blue;
     background-color: Magenta;
-    font-family: Arial, sans-serif;
+    font-family: Tahoma, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
     -moz-transition-duration: 4s;
